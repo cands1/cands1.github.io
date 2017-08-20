@@ -115,6 +115,24 @@ a:hover {
 	line-height:16px;
 	text-transform:uppercase;
 }
+.text-6-center {
+	font-weight: bold;
+	color:#937bb8;
+	font-size:24px;
+	text-align: center;
+}
+.text-7-center {
+	font-weight: bold;
+	font-size:20px;
+	text-align: center;
+}
+.text-quote {
+	font-family: 'Great Vibes', cursive;
+	font-size:24px;
+	color:#937bb8;
+	font-weight:normal;
+}
+
 h2 {
 	font-family: 'Great Vibes', cursive;
 	font-size:48px;
